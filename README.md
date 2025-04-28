@@ -106,7 +106,7 @@ DRK-STUDENT-PORTAL-3/
 
 ## Created By
 
-V. Vamsi Krishna (23N71A0558)
+V.Vamsi Krishna(23N71A0558),G.Penchala Aneel(23N71A0521)
 
 ## License
 
